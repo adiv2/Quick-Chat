@@ -1,0 +1,24 @@
+#send {
+    position: fixed;
+    bottom:0px;
+    height: 35px;
+    right: 0px;
+}
+#textBox {
+    position: fixed;
+    bottom: 0px;
+    padding-top: 0px;
+    border-bottom: solid white 10px;
+}
+
+.hints {
+    position: fixed;
+    bottom: 25px;
+    padding-top: 15px;
+    width: 500px;
+    background-color: white;
+}
+#chatBox{
+    position: fixed;
+    bottom: 60px;
+}
